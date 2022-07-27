@@ -170,8 +170,8 @@
 							</div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Bianca Wilson</h3>
-							<span class="position mb-2">Teacher</span>
+							<h3>Esteban Heredia</h3>
+							<span class="position mb-2">Coordinador Academico y jefe de Control escolar</span>
 							<div class="faded">
 								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 								<ul class="ftco-social text-center">
@@ -191,8 +191,8 @@
 							</div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Mitch Parker</h3>
-							<span class="position mb-2">English Teacher</span>
+							<h3>Jakelline Santos</h3>
+							<span class="position mb-2">Jefa del Esteban</span>
 							<div class="faded">
 								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 								<ul class="ftco-social text-center">
