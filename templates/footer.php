@@ -1,13 +1,27 @@
 <div class="container">
     <div class="row mb-5">
-        <div class="col-md-6 col-lg-3">
+    <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-5">
-                <h2 class="ftco-heading-2">¿Tienes Preguntas?</h2>
+                <h2 class="ftco-heading-2">Plantel Colosio</h2>
                 <div class="block-23 mb-3">
                     <ul>
                         <li><span class="icon icon-map-marker"></span><span class="text">Lago Plata Sur #15, Del
                                 Rastro, 84063 Nogales, Son.</span></li>
                         <li><a href="#"><span class="icon icon-phone"></span><span class="text">6313151705</span></a>
+                        </li>
+                        <li><a href="#"><span class="icon icon-envelope"></span><span
+                                    class="text">contacto@miprepanogales.mx</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+                <h2 class="ftco-heading-2">Plantel La Mesa</h2>
+                <div class="block-23 mb-3">
+                    <ul>
+                        <li><span class="icon icon-map-marker"></span><span class="text">La Mesa, 84107 Agua Zarca, Nogales, Son.</span></li>
+                        <li><a href="#"><span class="icon icon-phone"></span><span class="text">6311683340</span></a>
                         </li>
                         <li><a href="#"><span class="icon icon-envelope"></span><span
                                     class="text">contacto@miprepanogales.mx</span></a></li>
