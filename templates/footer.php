@@ -19,7 +19,7 @@
             <div class="ftco-footer-widget mb-5 ml-md-4">
                 <h2 class="ftco-heading-2">Extras</h2>
                 <ul class="list-unstyled">
-                    <li><a href="privacidad.html" target="_blank"><span
+                    <li><a href="privacidad.php" target="_blank"><span
                                 class="ion-ios-arrow-round-forward mr-2"></span>Aviso
                             de Privacidad</a></li>
                     <li><a href="https://transparencia.miprepanogales.mx/" target="_blank"><span
