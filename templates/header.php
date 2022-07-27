@@ -21,6 +21,7 @@
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						  <a class="dropdown-item" href="courses.php">Talleres</a>
+						  <a class="dropdown-item" href="#">Quiero Inscribirme</a>
 						</div>
 					</li>
 				</ul>

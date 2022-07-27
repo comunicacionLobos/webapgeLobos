@@ -26,6 +26,8 @@
                                 class="ion-ios-arrow-round-forward mr-2"></span>Transparencia</a></li>
                     <li><a href="https://vacantes.miprepanogales.mx/" target="_blank"><span
                                 class="ion-ios-arrow-round-forward mr-2"></span>Vacantes Docentes</a></li>
+                    <li><a href="https://classroom.miprepanogales.mx/" target="_blank"><span
+                                class="ion-ios-arrow-round-forward mr-2"></span>Classroom</a></li>
                 </ul>
             </div>
         </div>
