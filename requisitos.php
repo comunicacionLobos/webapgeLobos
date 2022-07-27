@@ -58,29 +58,9 @@
 		    </div>
 		  </div>
     </div>
-	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
-	    <div class="container d-flex align-items-center px-4">
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
-	      </button>
-	      <form action="#" class="searchform order-lg-last">
-          <div class="form-group d-flex">
-            <input type="text" class="form-control pl-3" placeholder="Search">
-            <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
-          </div>
-        </form>
-	      <div class="collapse navbar-collapse" id="ftco-nav">
-	        <ul class="navbar-nav mr-auto">
-	        	<li class="nav-item"><a href="index.html" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="courses.html" class="nav-link">Courses</a></li>
-	        	<li class="nav-item"><a href="teacher.html" class="nav-link">Staff</a></li>
-	        	<li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item active"><a href="contact.html" class="nav-link">Contact</a></li>
-	        </ul>
-	      </div>
-	    </div>
-	  </nav>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
+      <?php  require_once('templates/header.php'); ?>
+     </nav>
     <!-- END nav -->
     
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
@@ -217,9 +197,8 @@
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Somos tu mejor opción</h2>
-            <p>Conoce nuestra variedad de oferta educativa, contamos con una amplia gama de oportunidades de crecimiento profesional para los diferentes sectores de nuestra sociedad. </p>
-            <p>Lo más importante para el desarrollo de nuestros jóvenes, no es la cantidad de información que logran aprender. Lo crucial es si somos capaces de ayudarles a desarrollar un conjunto de cualidades, entre las cuales se incluyen la perseverancia, el autocontrol, la curiosidad, la meticulosidad, la determinación y la autoconfianza.</p>
+            <h2 class="mb-4">Colegiatura Cuatrimestral</h2>
+            <p>Somos una preparatoria incorporada a la maxima casa de estudios de Sonora UNISON </p>
           </div>
         </div>	
     		<div class="row d-md-flex align-items-center justify-content-center">
@@ -229,29 +208,11 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="25">0</strong>
-		                <span>Maestros</span>
+		                <strong class="number" data-number="1600">0</strong>
+		                <span>Costo (pesos)</span>
 		              </div>
 		            </div>
-		          </div>
-		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18">
-		            	<div class="icon"><span class="flaticon-doctor"></span></div>
-		              <div class="text">
-		                <strong class="number" data-number="835">0</strong>
-		                <span>Alumnos</span>
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18">
-		            	<div class="icon"><span class="flaticon-doctor"></span></div>
-		              <div class="text">
-		                <strong class="number" data-number="11">0</strong>
-		                <span>Talleres</span>
-		              </div>
-		            </div>
-		          </div>		         
+		          </div>	         
 	          </div>
           </div>
         </div>
@@ -259,51 +220,7 @@
     </section>
 	
     <footer class="ftco-footer ftco-bg-dark ftco-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-6 col-lg-3">
-            <div class="ftco-footer-widget mb-5">
-                <h2 class="ftco-heading-2">Plantel Colosio</h2>
-                <div class="block-23 mb-3">
-                    <ul>
-                        <li><span class="icon icon-map-marker"></span><span class="text">Lago Plata Sur #15, Del
-                                Rastro, 84063 Nogales, Son.</span></li>
-                        <li><a href="#"><span class="icon icon-phone"></span><span class="text">6313151705</span></a>
-                        </li>
-                        <li><a href="#"><span class="icon icon-envelope"></span><span
-                                    class="text">contacto@miprepanogales.mx</span></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-6 col-lg-3">
-            <div class="ftco-footer-widget mb-5">
-                <h2 class="ftco-heading-2">Plantel La Mesa</h2>
-                <div class="block-23 mb-3">
-                    <ul>
-                        <li><span class="icon icon-map-marker"></span><span class="text">La Mesa, 84107 Agua Zarca, Nogales, Son.</span></li>
-                        <li><a href="#"><span class="icon icon-phone"></span><span class="text">6311683340</span></a>
-                        </li>
-                        <li><a href="#"><span class="icon icon-envelope"></span><span
-                                    class="text">contacto@miprepanogales.mx</span></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-             
-            </div>
-          </div>
-        
-        </div>
-        <div class="row">
-          <div class="col-md-12 text-center">
-
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
+      <?php  require_once('templates/footer.php'); ?>
     </footer>
     
   

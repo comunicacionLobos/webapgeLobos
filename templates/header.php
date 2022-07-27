@@ -20,6 +20,7 @@
 						  Oferta Educativa
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						<a class="dropdown-item" href="requisitos.php">Requisitos</a>
 						  <a class="dropdown-item" href="courses.php">Talleres</a>
 						</div>
 					</li>
