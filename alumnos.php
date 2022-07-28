@@ -89,19 +89,23 @@
     	</div>
     </section>
 
-    <section class="ftco-section ftco-no-pt ftc-no-pb">
-			<div class="container">
-				<div class="row d-flex">				
-					<div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Nuestros Reyes 2022 Plantel Colosio 🟠</h2>
-						<p>Vania Gabriela Flores Romero y López Ruiz Cristian Daniel</p>
-					</div>
-          <div class="col-md-5 order-md-last wrap-about wrap-about d-flex align-items-stretch">
-						<div class="img" style="background-image: url(images/reyescolosio.jpg);"></div>
-					</div>
-				</div>
-			</div>
-		</section>
+    <section class="ftco-section ftco-counter img" id="section-flores" style="background-image: url(images/lamesa.jpg);" data-stellar-background-ratio="0.5">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-2 d-flex">
+    			<div class="col-md-6 align-items-stretch d-flex">
+    				<div class="img img-video d-flex align-items-center">
+    					<div class="video justify-content-center">
+                <img src="images/reyeslamesa.jpg" width="500px">
+							</div>
+    				</div>
+    			</div>
+          <div class="col-md-5 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
+            <h2 class="mb-4">Nuestros Reyes 2022 Plantel La Mesa 🟣</h2>
+            <h3>Jhoana Martínez y Edgar Pérez</h3>
+          </div>
+        </div>	
+    	</div>
+    </section>
 
     <section class="ftco-section testimony-section">
       <div class="container">
