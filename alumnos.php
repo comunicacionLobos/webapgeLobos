@@ -71,7 +71,7 @@
     	</div>
     </section>
 
-    <section class="ftco-section ftco-counter img" id="section-flores" style="background-image: url(images/colosio2.jpg);" data-stellar-background-ratio="0.5">
+    <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/colosio2.jpg);" data-stellar-background-ratio="0.5">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-2 d-flex">
     			<div class="col-md-6 align-items-stretch d-flex">
