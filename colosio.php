@@ -77,6 +77,45 @@
 			</div>
 		</section>
 
+    <section class="ftco-gallery">
+		<div class="container-wrap">
+			<div class="row no-gutters">
+				<div class="col-md-3 ftco-animate">
+					<a href="images/facebook1.jpg" class="gallery image-popup img d-flex align-items-center"
+						style="background-image: url(images/colosio1.jpg);">
+						<div class="icon mb-4 d-flex align-items-center justify-content-center">
+							<span class="icon-facebook"></span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 ftco-animate">
+					<a href="images/facebook2.jpg" class="gallery image-popup img d-flex align-items-center"
+						style="background-image: url(images/colosio2.jpg);">
+						<div class="icon mb-4 d-flex align-items-center justify-content-center">
+							<span class="icon-facebook"></span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 ftco-animate">
+					<a href="images/facebook3.jpg" class="gallery image-popup img d-flex align-items-center"
+						style="background-image: url(images/colosio3.jpg);">
+						<div class="icon mb-4 d-flex align-items-center justify-content-center">
+							<span class="icon-facebook"></span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 ftco-animate">
+					<a href="images/facebook4.jpg" class="gallery image-popup img d-flex align-items-center"
+						style="background-image: url(images/colosio4.jpg);">
+						<div class="icon mb-4 d-flex align-items-center justify-content-center">
+							<span class="icon-facebook"></span>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
     <footer class="ftco-footer ftco-bg-dark ftco-section">
 		 <?php  require_once('templates/footer.php'); ?>
 	  </footer>
