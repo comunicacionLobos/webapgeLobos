@@ -169,7 +169,7 @@
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-8.jpg);">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-9.jpg);">
 							</div>
 						</div>
 						<div class="text pt-3 text-center">
