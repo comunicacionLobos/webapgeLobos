@@ -71,6 +71,20 @@
     	</div>
     </section>
 
+    <section class="ftco-section ftco-no-pt ftc-no-pb">
+			<div class="container">
+				<div class="row d-flex">				
+					<div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
+          	<h2 class="mb-4">Nuestros Reyes 2022 Plantel Colosio 🟠</h2>
+						<p>Vania Gabriela Flores Romero y López Ruiz Cristian Daniel</p>
+					</div>
+          <div class="col-md-5 order-md-last wrap-about wrap-about d-flex align-items-stretch">
+						<div class="img" style="background-image: url(images/reyescolosio.jpg);"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+
     <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
