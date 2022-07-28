@@ -197,28 +197,28 @@
     	<div class="container-wrap">
     		<div class="row no-gutters">
 					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook1.jpg);">
+						<a href="images/facebook6.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook6.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-facebook"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook2.jpg);">
+						<a href="images/facebook7.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook7.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-facebook"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook3.jpg);">
+						<a href="images/facebook8.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook8.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-facebook"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook4.jpg);">
+						<a href="images/facebook9.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook9.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-facebook"></span>
     					</div>
