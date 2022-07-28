@@ -9285,6 +9285,10 @@ textarea.form-control {
   font-size: 40px;
   color: #fff; }
 
+.heading-section.heading-section-white h3 {
+    font-size: 30px;
+    color: #fff; }
+
 .heading-section.heading-section-white p {
   color: rgba(255, 255, 255, 0.9); }
 
