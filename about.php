@@ -198,7 +198,7 @@
     			<div class="col-md-6 align-items-stretch d-flex">
     				<div class="img img-video d-flex align-items-center">
     					<div class="video justify-content-center">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/BqWfnx_QkzQ" title="Escuela Segura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>							</div>
+              <iframe width="800" height="315" src="https://www.youtube.com/embed/BqWfnx_QkzQ" title="Escuela Segura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>							</div>
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
@@ -206,39 +206,6 @@
             <p>Conoce nuestro protocolo de Salud</p>
           </div>
         </div>	
-    		<div class="row d-md-flex align-items-center justify-content-center">
-    			<div class="col-lg-12">
-    				<div class="row d-md-flex align-items-center">
-		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18">
-		            	<div class="icon"><span class="flaticon-doctor"></span></div>
-		              <div class="text">
-		                <strong class="number" data-number="25">0</strong>
-		                <span>Maestros</span>
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18">
-		            	<div class="icon"><span class="flaticon-doctor"></span></div>
-		              <div class="text">
-		                <strong class="number" data-number="835">0</strong>
-		                <span>Alumnos</span>
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18">
-		            	<div class="icon"><span class="flaticon-doctor"></span></div>
-		              <div class="text">
-		                <strong class="number" data-number="11">0</strong>
-		                <span>Talleres</span>
-		              </div>
-		            </div>
-		          </div>		         
-	          </div>
-          </div>
-        </div>
     	</div>
     </section>
 
