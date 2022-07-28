@@ -64,8 +64,8 @@
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Nuestra Renyna de las     Fl🌸res 2022</h2>
-            <p>Carolina Bojórquez</p>
+            <h2 class="mb-4">Nuestra Reyna de las     Fl🌸res 2022</h2>
+            <h3>Carolina Bojórquez</h3>
           </div>
         </div>	
     	</div>
@@ -158,43 +158,6 @@
       </div>
     </section>
 
-
-		<section class="ftco-gallery">
-    	<div class="container-wrap">
-    		<div class="row no-gutters">
-					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook6.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook6.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-facebook"></span>
-    					</div>
-						</a>
-					</div>
-					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook7.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook7.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-facebook"></span>
-    					</div>
-						</a>
-					</div>
-					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook8.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook8.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-facebook"></span>
-    					</div>
-						</a>
-					</div>
-					<div class="col-md-3 ftco-animate">
-						<a href="images/facebook9.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/facebook9.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-facebook"></span>
-    					</div>
-						</a>
-					</div>
-        </div>
-    	</div>
-    </section>
-
-		
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <?php  require_once('templates/footer.php'); ?>
     </footer>
