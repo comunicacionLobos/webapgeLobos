@@ -172,6 +172,18 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/esiquioti.jpg);">
+							</div>
+						</div>
+						<div class="text pt-3 text-center">
+							<h3>Esiquio Vázquez</h3>
+							<span class="position mb-2">TI</span>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
