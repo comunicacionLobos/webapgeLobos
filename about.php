@@ -198,8 +198,7 @@
     			<div class="col-md-6 align-items-stretch d-flex">
     				<div class="img img-video d-flex align-items-center">
     					<div class="video justify-content-center">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/BqWfnx_QkzQ&t=2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							</div>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/BqWfnx_QkzQ" title="Escuela Segura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>							</div>
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
