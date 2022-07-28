@@ -14,7 +14,7 @@
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						  <a class="dropdown-item" href="administrativos.php">Personal Administrativo</a>
 						  <a class="dropdown-item" href="colosio.php">Plantel Colosio</a>
-						  <a class="dropdown-item" href="administrativos.php">Plantel La Mesa</a>
+						  <a class="dropdown-item" href="mesa.php">Plantel La Mesa</a>
 						</div>
 					</li>
 					<li class="nav-item dropdown">
