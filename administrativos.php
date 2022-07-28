@@ -127,21 +127,12 @@
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-5.jpg);">
+							<div class="img align-self-stretch" style="background-image: url(images/estebanacademico.jpg);">
 							</div>
 						</div>
 						<div class="text pt-3 text-center">
 							<h3>Esteban Heredia</h3>
 							<span class="position mb-2">Coordinador Academico y jefe de Control escolar</span>
-							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -153,37 +144,19 @@
 						</div>
 						<div class="text pt-3 text-center">
 							<h3>Jakelline Santos</h3>
-							<span class="position mb-2">Jefa del Esteban</span>
-							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
+							<span class="position mb-2">Control Escolar</span>
 						</div>
 					</div>
 				</div>				
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/staff-3.jpg);">
+							<div class="img align-self-stretch" style="background-image: url(images/ricardocontrol.jpg);">
 							</div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Ricarde Perez</h3>
-							<span class="position mb-2">Jefe de la jefa del Esteban</span>
-							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
+							<h3>Ricardo Pérez</h3>
+							<span class="position mb-2">Control Escolar</span>
 						</div>
 					</div>
 				</div>
