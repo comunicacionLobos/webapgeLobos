@@ -53,7 +53,7 @@
 		</section>
 		
 
-		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(colosio2.jpg);" data-stellar-background-ratio="0.5">
+		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/colosio2.jpg);" data-stellar-background-ratio="0.5">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-2 d-flex">
     			<div class="col-md-6 align-items-stretch d-flex">
@@ -64,7 +64,7 @@
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Nuestra Renyna de las Fl🌸res 2022</h2>
+            <h2 class="mb-4">Nuestra Renyna de las     Fl🌸res 2022</h2>
             <p>Carolina Bojórquez</p>
           </div>
         </div>	
