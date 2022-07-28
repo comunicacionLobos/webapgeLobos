@@ -63,7 +63,7 @@
 							</div>
     				</div>
     			</div>
-          <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
+          <div class="col-md-5 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
             <h2 class="mb-4">Nuestra Reyna de las Fl🌸res 2022</h2>
             <h3>Carolina Bojórquez</h3>
           </div>
