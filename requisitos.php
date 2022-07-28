@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <link rel="icon" href="images/logo1.png" type="image/icon type">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="css/owl.carousel.min.css">
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <link rel="stylesheet" href="css/magnific-popup.css">
-
+  <link href="fontawesome-free/css/all.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/aos.css">
 
   <link rel="stylesheet" href="css/ionicons.min.css">
@@ -185,6 +185,50 @@
       </div>
     </div>
   </section>
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+    <div class="container">
+
+      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+
+        <div class="col-md-5">
+          <img src="images/preparegular.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7">
+          <h3>Programa Regular en 2 años.</h3>
+          <p class="fst-italic">
+            Preparatoria de lunes a viernes para alumnos recién egresados de secundaria..
+          </p>
+          <ul>
+            <li>Sin costo de inscripción.</li>
+            <li>Preparatoria en 2 años.</li>
+            <li>Lunes a viernes.</li>
+            <li>Colegiatura Cuatrimestral de $1,600.</li>
+          </ul>
+        </div>
+      </div><!-- Features Item -->
+
+      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+        <div class="col-md-5 order-1 order-md-2">
+          <img src="images/3.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 order-2 order-md-1">
+          <h3>Proxima Fecha de Inscripciones</h3>
+          <p class="fst-italic">
+            10 de Noviembre del 2022
+          </p>
+          <p>
+            Asegurate de asistir con la documentación completa y un padre de familia o tutor que sea mayor de edad para
+            agilizar tu proceso, ya que de otro modo no podras inscribirte con nosotros.
+          </p>
+        </div>
+      </div><!-- Features Item -->
+
+    
+
+    </div>
+  </section><!-- End Features Section -->
 
   <footer class="ftco-footer ftco-bg-dark ftco-section">
     <?php require_once('templates/footer.php'); ?>
