@@ -251,7 +251,7 @@
 							</div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Bianca Wilson</h3>
+							<h3>Yuleni</h3>
 							<span class="position mb-2">Teacher</span>
 							<div class="faded">
 								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
