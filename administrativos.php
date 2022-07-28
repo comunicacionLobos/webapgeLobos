@@ -52,14 +52,6 @@
 						<div class="text pt-3 text-center">
 							<h3>Alvaro Arvizu</h3>
 							<span class="position mb-2">Administrador General</span>
-							<div class="faded">
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -72,14 +64,6 @@
 						<div class="text pt-3 text-center">
 							<h3>Veronica Duarte</h3>
 							<span class="position mb-2">Transparencia</span>
-							<div class="faded">								
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -92,14 +76,6 @@
 						<div class="text pt-3 text-center">
 							<h3>Lizeth Felix</h3>
 							<span class="position mb-2">Finanzas</span>
-							<div class="faded">
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -112,14 +88,6 @@
 						<div class="text pt-3 text-center">
 							<h3>Vianney Villarreal</h3>
 							<span class="position mb-2">Contabilidad</span>
-							<div class="faded">
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>
