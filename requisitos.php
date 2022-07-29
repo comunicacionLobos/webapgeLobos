@@ -230,7 +230,7 @@
           <img src="images/pago.png" class="img-fluid" alt="">
         </div>
         <div class="col-md-7">
-          <h3>¿Donde realizar el pago de inscripción?.</h3>
+          <h3>¿Donde realizar el pago de inscripción?</h3>
           <ul>
             <li>Deposito Santander: 6550 5161 970</li>
             <li>Pago en Oxxo: 5579 0890 0003 9308</li>
