@@ -186,8 +186,8 @@
     </div>
   </section>
 
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+  <!-- ======= Features Section ======= -->
+  <section id="features" class="features">
     <div class="container">
 
       <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
@@ -225,7 +225,21 @@
         </div>
       </div><!-- Features Item -->
 
-    
+      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+        <div class="col-md-5">
+          <img src="images/preparegular.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7">
+          <h3>¿Donde realizar el pago de inscripción?.</h3>
+          <ul>
+            <li>Deposito Santander: 65505161</li>
+            <li>Preparatoria en 2 años.</li>
+            <li>Lunes a viernes.</li>
+            <li>Colegiatura Cuatrimestral de $1,600.</li>
+          </ul>
+        </div>
+      </div><!-- Features Item -->
+
 
     </div>
   </section><!-- End Features Section -->
