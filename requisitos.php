@@ -227,15 +227,15 @@
 
       <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
         <div class="col-md-5">
-          <img src="images/preparegular.jpg" class="img-fluid" alt="">
+          <img src="images/pago.png" class="img-fluid" alt="">
         </div>
         <div class="col-md-7">
           <h3>¿Donde realizar el pago de inscripción?.</h3>
           <ul>
-            <li>Deposito Santander: 65505161</li>
-            <li>Preparatoria en 2 años.</li>
-            <li>Lunes a viernes.</li>
-            <li>Colegiatura Cuatrimestral de $1,600.</li>
+            <li>Deposito Santander: 6550 5161 970</li>
+            <li>Pago en Oxxo: 5579 0890 0003 9308</li>
+            <li>Transferencia: 0147 7865 5051 6197 02</li>
+            <li>Pago con Tarjeta (en Plantel Colosio)</li>
           </ul>
         </div>
       </div><!-- Features Item -->
