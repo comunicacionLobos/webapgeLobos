@@ -160,7 +160,7 @@
 						</div>
 						<div class="text pt-3 text-center">
 							<h3>Evelynn Carter</h3>
-							<span class="position mb-2">Psicología Ext La Mesa</span>
+							<span class="position mb-2">Orientación y Psicología Ext La Mesa</span>
 						</div>
 					</div>
 				</div>
