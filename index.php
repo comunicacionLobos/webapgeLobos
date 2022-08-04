@@ -343,6 +343,26 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
+						<a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" class="block-20 d-flex align-items-end"
+							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/297091056_7938249622883053_4370532148590651341_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHNZUbqozgbBRInIkFNT5pbuXUSV7GYCfC5dRJXsZgJ8DPFl2w8fmc6UtYWc9odcT2XVy0vptqMDmc06T58BUhd&_nc_ohc=6RXcHUaHz1YAX-XQUXx&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT9qRkTxBcZuxmVVGz2Z0hh7nFx4j8L15C1zyVIoAjiPKg&oe=62F0AE27');">
+							<div class="meta-date text-center p-2">
+								<span class="day">3</span>
+								<span class="mos">Agosto</span>
+								<span class="yr">2022</span>
+							</div>
+						</a>
+						<div class="text bg-white p-4">
+							<h3 class="heading"><a href="#">Concurso de Talentos</a></h3>
+							<p>Cerramos cuatrimestre en nuestro plantel Colosio con un concurso de talentos🎨🖌️🎸🎙️ donde muchos de nuestros alumnos demostraron sus habilidades 💪 no solo en la cuestión académica, también en música, arte, moda, interpretación, karaoke, bailes, entre muchos otros.</p>
+							<div class="d-flex align-items-center mt-4">
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7750792208295463" target="_blank" class="btn btn-primary">Saber Mas <span
+											class="ion-ios-arrow-round-forward"></span></a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" class="block-20 d-flex align-items-end"
 							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/294385848_7883826031658746_3615188229778439838_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGU2tCyWp769kl-d0YVVb0ObkMFNJtdmHduQwU0m12Ydwcbk6yvbvlMfncIQQpedVuxspktul_wqpG-ETE1nFDs&_nc_ohc=HwFatbYYzaYAX9F7vAV&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT8zr4pugJlQvR8-FwgLZsS9YwrSxXTmBO36jgo0dOF_Hg&oe=62E59C8F');">
 							<div class="meta-date text-center p-2">
@@ -376,26 +396,6 @@
 							<p>Nuestra vigesimo tercera generación de alumnos culmino con sus estudios de bachillerato en plantel Colosio y plantel La Mesa</p>
 							<div class="d-flex align-items-center mt-4">
 								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7815443641830319" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/7750792208295463" class="block-20 d-flex align-items-end"
-							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/289893527_7750784681629549_78674088764087144_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHSy3eyWndmIFxlw10X_hDyoO7PuaDj6_mg7s-5oOPr-XBE87ydB9XUGb0KYQ_SpUlWHX3PxZaQCUjDXMJeyVIz&_nc_ohc=0ZQZfXGgolMAX-OKIDA&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT-NO5dyqY4IeQ2V9rvuabMys4mAJKEaN-pv9XVTG4q9IA&oe=62E6D9C4');">
-							<div class="meta-date text-center p-2">
-								<span class="day">24</span>
-								<span class="mos">Junio</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Concurso de Talentos</a></h3>
-							<p>Cerramos cuatrimestre en nuestro plantel Colosio con un concurso de talentos🎨🖌️🎸🎙️ donde muchos de nuestros alumnos demostraron sus habilidades 💪 no solo en la cuestión académica, también en música, arte, moda, interpretación, karaoke, bailes, entre muchos otros.</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7750792208295463" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
