@@ -364,7 +364,7 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" class="block-20 d-flex align-items-end"
-							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/294385848_7883826031658746_3615188229778439838_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGU2tCyWp769kl-d0YVVb0ObkMFNJtdmHduQwU0m12Ydwcbk6yvbvlMfncIQQpedVuxspktul_wqpG-ETE1nFDs&_nc_ohc=HwFatbYYzaYAX9F7vAV&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT8zr4pugJlQvR8-FwgLZsS9YwrSxXTmBO36jgo0dOF_Hg&oe=62E59C8F');">
+							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/294385848_7883826031658746_3615188229778439838_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGU2tCyWp769kl-d0YVVb0ObkMFNJtdmHduQwU0m12Ydwcbk6yvbvlMfncIQQpedVuxspktul_wqpG-ETE1nFDs&_nc_ohc=vl84ZUFPxAgAX-tDbOW&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT9kULYQtVGTm0kztKNa_knzocrYoPa-fk0vDPTFEb-WEQ&oe=62EF7FCF');">
 							<div class="meta-date text-center p-2">
 								<span class="day">22</span>
 								<span class="mos">Julio</span>
@@ -384,7 +384,7 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7815443641830319" class="block-20 d-flex align-items-end"
-							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/294385848_7883826031658746_3615188229778439838_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGU2tCyWp769kl-d0YVVb0ObkMFNJtdmHduQwU0m12Ydwcbk6yvbvlMfncIQQpedVuxspktul_wqpG-ETE1nFDs&_nc_ohc=vl84ZUFPxAgAX-tDbOW&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT9kULYQtVGTm0kztKNa_knzocrYoPa-fk0vDPTFEb-WEQ&oe=62EF7FCF');">
+							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/292758423_7815434708497879_6738705860380231966_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEidLq_CTz5jUIcEBsx2qrxCuhP2f0m7VgK6E_Z_SbtWAV3cekKzNchG-m5sYslfMjtTAY_w3BJ0C5GAzofKZP9&_nc_ohc=g7EQM58DCYwAX8htkMN&_nc_ht=scontent.fgym1-1.fna&oh=00_AT8OB_H17Y80wV5Jt1AmJBpAZ-xzAeekC5Y-NRwsNplCBA&oe=62EF4FBA');">
 							<div class="meta-date text-center p-2">
 								<span class="day">8</span>
 								<span class="mos">Julio</span>
