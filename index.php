@@ -352,10 +352,10 @@
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Concurso de Talentos</a></h3>
-							<p>Cerramos cuatrimestre en nuestro plantel Colosio con un concurso de talentos🎨🖌️🎸🎙️ donde muchos de nuestros alumnos demostraron sus habilidades 💪 no solo en la cuestión académica, también en música, arte, moda, interpretación, karaoke, bailes, entre muchos otros.</p>
+							<h3 class="heading"><a href="#">Regreso a Clases</a></h3>
+							<p>Iniciamos 🔝 nuestro nuevo ciclo escolar 📓📝📒 con los estudiantes de nuevo ingreso.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7750792208295463" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
