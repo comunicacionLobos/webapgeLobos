@@ -118,7 +118,7 @@
             <div class="carousel-testimony owl-carousel">
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+                  <div class="user-img mr-4" style="background-image: url(images/logo1.png)">
                   </div>
                   <div class="text ml-2">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -132,7 +132,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-2.jpg)">
+                  <div class="user-img mr-4" style="background-image: url(images/logo1.png)">
                   </div>
                   <div class="text ml-2">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -146,7 +146,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-3.jpg)">
+                  <div class="user-img mr-4" style="background-image: url(images/logo1.png)">
                   </div>
                   <div class="text ml-2">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -160,29 +160,29 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-4.jpg)">
+                  <div class="user-img mr-4" style="background-image: url(images/logo1.png)">
                   </div>
                   <div class="text ml-2">
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Rodel Golez</p>
-                    <span class="position">Mother</span>
+                    <p>La Prepa es un lugar donde puedes socializar y conocer gente nueva.</p>
+                    <p class="name">Julian Almeda</p>
+                    <span class="position">C03-14</span>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+                  <div class="user-img mr-4" style="background-image: url(images/logo1.png)">
                   </div>
                   <div class="text ml-2">
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Ken Bosh</p>
-                    <span class="position">Mother</span>
+                    <p>Muy buena escuela y cuenta con la seguridad apropiada.</p>
+                    <p class="name">Alberto Ramirez</p>
+                    <span class="position">C01-13</span>
                   </div>
                 </div>
               </div>
