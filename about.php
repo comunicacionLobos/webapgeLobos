@@ -124,9 +124,9 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Racky Henderson</p>
-                    <span class="position">Father</span>
+                    <p>Tiene buena educación academica.</p>
+                    <p class="name">Lizeth Padilla</p>
+                    <span class="position">C02-12</span>
                   </div>
                 </div>
               </div>
@@ -138,9 +138,9 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Henry Dee</p>
-                    <span class="position">Mother</span>
+                    <p>Esta Bonita y han hecho un mejor plantel.</p>
+                    <p class="name">Itzel Lugo</p>
+                    <span class="position">C02-12</span>
                   </div>
                 </div>
               </div>
@@ -152,9 +152,9 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Mark Huff</p>
-                    <span class="position">Mother</span>
+                    <p>Tiene buenos maestros y las instalaciones son aptas.</p>
+                    <p class="name">Keyla Alonso</p>
+                    <span class="position">C02-12</span>
                   </div>
                 </div>
               </div>
