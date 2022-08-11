@@ -344,7 +344,7 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" class="block-20 d-flex align-items-end"
-							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/297091056_7938249622883053_4370532148590651341_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHNZUbqozgbBRInIkFNT5pbuXUSV7GYCfC5dRJXsZgJ8DPFl2w8fmc6UtYWc9odcT2XVy0vptqMDmc06T58BUhd&_nc_ohc=6RXcHUaHz1YAX-XQUXx&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT9qRkTxBcZuxmVVGz2Z0hh7nFx4j8L15C1zyVIoAjiPKg&oe=62F0AE27');">
+							style="background-image: url('images/publicacion1.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">3</span>
 								<span class="mos">Agosto</span>
@@ -364,7 +364,7 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" class="block-20 d-flex align-items-end"
-							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/294385848_7883826031658746_3615188229778439838_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGU2tCyWp769kl-d0YVVb0ObkMFNJtdmHduQwU0m12Ydwcbk6yvbvlMfncIQQpedVuxspktul_wqpG-ETE1nFDs&_nc_ohc=vl84ZUFPxAgAX-tDbOW&tn=LG_en0NhFqrInW_X&_nc_ht=scontent.fgym1-1.fna&oh=00_AT9kULYQtVGTm0kztKNa_knzocrYoPa-fk0vDPTFEb-WEQ&oe=62EF7FCF');">
+							style="background-image: url('images/publicacion2.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">22</span>
 								<span class="mos">Julio</span>
@@ -384,7 +384,7 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7815443641830319" class="block-20 d-flex align-items-end"
-							style="background-image: url('https://scontent.fgym1-1.fna.fbcdn.net/v/t39.30808-6/292758423_7815434708497879_6738705860380231966_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEidLq_CTz5jUIcEBsx2qrxCuhP2f0m7VgK6E_Z_SbtWAV3cekKzNchG-m5sYslfMjtTAY_w3BJ0C5GAzofKZP9&_nc_ohc=g7EQM58DCYwAX8htkMN&_nc_ht=scontent.fgym1-1.fna&oh=00_AT8OB_H17Y80wV5Jt1AmJBpAZ-xzAeekC5Y-NRwsNplCBA&oe=62EF4FBA');">
+							style="background-image: url('images/publicacion3.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">8</span>
 								<span class="mos">Julio</span>
