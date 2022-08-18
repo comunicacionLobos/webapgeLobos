@@ -167,6 +167,18 @@
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/geovanaacademic.jpg);">
+							</div>
+						</div>
+						<div class="text pt-3 text-center">
+							<h3>Geovana Rodríguez</h3>
+							<span class="position mb-2">Jefa de Control Escolar Ext La Mesa</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
 							<div class="img align-self-stretch" style="background-image: url(images/michellepsicologa.jpg);">
 							</div>
 						</div>
