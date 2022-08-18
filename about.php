@@ -85,7 +85,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="835">0</strong>
+		                <strong class="number" data-number="908">0</strong>
 		                <span>Alumnos</span>
 		              </div>
 		            </div>
