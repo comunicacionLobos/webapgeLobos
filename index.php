@@ -342,6 +342,27 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-lg-4 ftco-animate">
+						<div class="blog-entry">
+							<a href="https://www.facebook.com/miprepanogales/posts/7994065127301502" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion3.jpg');">
+								<div class="meta-date text-center p-2">
+									<span class="day">15</span>
+									<span class="mos">Agosto</span>
+									<span class="yr">2022</span>
+								</div>
+							</a>
+							<div class="text bg-white p-4">
+								<h3 class="heading"><a href="#">Exposición de paraescolares en el Plantel Colosio</a></h3>
+								<p>Realizamos una presentación acerca de los talleres que ofrecemos en nuestro plantel colosio</p>
+								<div class="d-flex align-items-center mt-4">
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7994065127301502" target="_blank" class="btn btn-primary">Saber Mas <span
+												class="ion-ios-arrow-round-forward"></span></a></p>
+								</div>
+							</div>
+						</div>
+				</div>
+
+				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion1.jpg');">
@@ -376,26 +397,6 @@
 							<p>Organizado por parte del Instituto Nogalense de la Juventud, donde nuestro plantel colosio fue una de las sedes, en la cual se realizaron actividades para niños y jóvenes de 8 a 16 años.</p>
 							<div class="d-flex align-items-center mt-4">
 								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/7815443641830319" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion3.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">8</span>
-								<span class="mos">Julio</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Ceremonia de Graduación</a></h3>
-							<p>Nuestra vigesimo tercera generación de alumnos culmino con sus estudios de bachillerato en plantel Colosio y plantel La Mesa</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7815443641830319" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
