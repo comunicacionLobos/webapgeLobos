@@ -387,14 +387,14 @@
 						<a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion1.jpg');">
 							<div class="meta-date text-center p-2">
-								<span class="day">3</span>
+								<span class="day">31</span>
 								<span class="mos">Agosto</span>
 								<span class="yr">2022</span>
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Regreso a Clases</a></h3>
-							<p>Iniciamos 🔝 nuestro nuevo ciclo escolar 📓📝📒 con los estudiantes de nuevo ingreso.</p>
+							<h3 class="heading"><a href="#">Muestra gastronómica</a></h3>
+							<p>Se llevó a cabo una muestra gastronómica por parte nuestros alumnos de primer y tercer cuatrimestre, además de una admirable presentación de la Danza del Venado Mayo del sur del estado, por parte de nuestros invitados, en conmemoración por el Día Internacional de los Grupos Indígenas.</p>
 							<div class="d-flex align-items-center mt-4">
 								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
