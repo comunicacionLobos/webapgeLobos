@@ -341,6 +341,26 @@
 				</div>
 			</div>
 			<div class="row">
+			<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="blog-entry">
+						<a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" class="block-20 d-flex align-items-end"
+							style="background-image: url('images/publicacion2.jpg');">
+							<div class="meta-date text-center p-2">
+								<span class="day">04</span>
+								<span class="mos">Septiembre</span>
+								<span class="yr">2022</span>
+							</div>
+						</a>
+						<div class="text bg-white p-4">
+							<h3 class="heading"><a href="#">Coronación de la Reina de las Fiestas Patrias 2022</a></h3>
+							<p>Es un honor y nos llena de orgullo anunciar📣📣 que nuestra representante Angélica Guadalupe Morales Cadena fue coronada👑 como la nueva Reina de las Fiestas Patrias 2022.</p>
+							<div class="d-flex align-items-center mt-4">
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" target="_blank" class="btn btn-primary">Saber Mas <span
+											class="ion-ios-arrow-round-forward"></span></a></p>
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
 							<a href="https://www.facebook.com/miprepanogales/posts/7994065127301502" class="block-20 d-flex align-items-end"
@@ -377,26 +397,6 @@
 							<p>Iniciamos 🔝 nuestro nuevo ciclo escolar 📓📝📒 con los estudiantes de nuevo ingreso.</p>
 							<div class="d-flex align-items-center mt-4">
 								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion2.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">22</span>
-								<span class="mos">Julio</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Clausura del campamento “Centros de Bienestar Juvenil”</a></h3>
-							<p>Organizado por parte del Instituto Nogalense de la Juventud, donde nuestro plantel colosio fue una de las sedes, en la cual se realizaron actividades para niños y jóvenes de 8 a 16 años.</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
