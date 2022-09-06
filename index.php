@@ -343,7 +343,7 @@
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" class="block-20 d-flex align-items-end"
+						<a href="https://www.facebook.com/miprepanogales/posts/8087517904622890" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion2.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">04</span>
@@ -355,7 +355,7 @@
 							<h3 class="heading"><a href="#">Coronación de la Reina de las Fiestas Patrias 2022</a></h3>
 							<p>Es un honor y nos llena de orgullo anunciar📣📣 que nuestra representante Angélica Guadalupe Morales Cadena fue coronada👑 como la nueva Reina de las Fiestas Patrias 2022.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7883828871658462" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/8087517904622890" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
@@ -363,7 +363,7 @@
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/7994065127301502" class="block-20 d-flex align-items-end"
+							<a href="https://www.facebook.com/miprepanogales/posts/8080195575355123" class="block-20 d-flex align-items-end"
 								style="background-image: url('images/publicacion3.jpg');">
 								<div class="meta-date text-center p-2">
 									<span class="day">02</span>
@@ -375,7 +375,7 @@
 								<h3 class="heading"><a href="#">Cierre del programa "Todos contra las adicciones y el suicidio"</a></h3>
 								<p>📢📢 Cerramos con el programa "Todos contra las adicciones y el suicidio"👏 como trabajo en conjunto de autoridades municipales, estatales y federales.</p>
 								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7994065127301502" target="_blank" class="btn btn-primary">Saber Mas <span
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/8080195575355123" target="_blank" class="btn btn-primary">Saber Mas <span
 												class="ion-ios-arrow-round-forward"></span></a></p>
 								</div>
 							</div>
@@ -384,7 +384,7 @@
 
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" class="block-20 d-flex align-items-end"
+						<a href="https://www.facebook.com/miprepanogales/posts/8072009396173741" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion1.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">31</span>
@@ -394,9 +394,9 @@
 						</a>
 						<div class="text bg-white p-4">
 							<h3 class="heading"><a href="#">Muestra gastronómica</a></h3>
-							<p>Se llevó a cabo una muestra gastronómica por parte nuestros alumnos de primer y tercer cuatrimestre, además de una admirable presentación de la Danza del Venado Mayo del sur del estado, por parte de nuestros invitados, en conmemoración por el Día Internacional de los Grupos Indígenas.</p>
+							<p>Se llevó a cabo una muestra gastronómica por parte nuestros alumnos de primer y tercer cuatrimestre.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/7938255666215782" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/8072009396173741" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
