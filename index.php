@@ -343,6 +343,46 @@
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
+						<a href="https://www.facebook.com/miprepanogales/posts/537323055063344" class="block-20 d-flex align-items-end"
+							style="background-image: url('images/publicacion1.jpg');">
+							<div class="meta-date text-center p-2">
+								<span class="day">23</span>
+								<span class="mos">Septiembre</span>
+								<span class="yr">2022</span>
+							</div>
+						</a>
+						<div class="text bg-white p-4">
+							<h3 class="heading"><a href="#">Muestra gastronómica</a></h3>
+							<p>Tuvimos nuestra Muestra Gastronómica en conmemoración por las Fiestas Patrias en nuestro plantel la Colosio, incluyendo también la participación de nuestros alumnos del plantel la Mesa.</p>
+							<div class="d-flex align-items-center mt-4">
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/537323055063344" target="_blank" class="btn btn-primary">Saber Mas <span
+											class="ion-ios-arrow-round-forward"></span></a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+						<div class="blog-entry">
+							<a href="https://www.facebook.com/miprepanogales/posts/530698355725814" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion3.jpg');">
+								<div class="meta-date text-center p-2">
+									<span class="day">16</span>
+									<span class="mos">Septiembre</span>
+									<span class="yr">2022</span>
+								</div>
+							</a>
+							<div class="text bg-white p-4">
+								<h3 class="heading"><a href="#">Desfile Civico Militar</a></h3>
+								<p>Nos sentimos orgullosos de participar en el Desfile Militar en honor del 212 aniversario de nuestra independencia.</p>
+								<div class="d-flex align-items-center mt-4">
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/530698355725814" target="_blank" class="btn btn-primary">Saber Mas <span
+												class="ion-ios-arrow-round-forward"></span></a></p>
+								</div>
+							</div>
+						</div>
+				</div>
+			<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/8087517904622890" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion2.jpg');">
 							<div class="meta-date text-center p-2">
@@ -360,48 +400,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/8080195575355123" class="block-20 d-flex align-items-end"
-								style="background-image: url('images/publicacion3.jpg');">
-								<div class="meta-date text-center p-2">
-									<span class="day">02</span>
-									<span class="mos">Septiembre</span>
-									<span class="yr">2022</span>
-								</div>
-							</a>
-							<div class="text bg-white p-4">
-								<h3 class="heading"><a href="#">Cierre del programa "Todos contra las adicciones y el suicidio"</a></h3>
-								<p>📢📢 Cerramos con el programa "Todos contra las adicciones y el suicidio"👏 como trabajo en conjunto de autoridades municipales, estatales y federales.</p>
-								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/8080195575355123" target="_blank" class="btn btn-primary">Saber Mas <span
-												class="ion-ios-arrow-round-forward"></span></a></p>
-								</div>
-							</div>
-						</div>
-				</div>
-
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/8072009396173741" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion1.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">31</span>
-								<span class="mos">Agosto</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Muestra gastronómica</a></h3>
-							<p>Se llevó a cabo una muestra gastronómica por parte nuestros alumnos de primer y tercer cuatrimestre.</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/8072009396173741" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-				</div>
+				</div>	
 			</div>
 		</div>
 	</section>
