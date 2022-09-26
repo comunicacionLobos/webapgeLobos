@@ -51,25 +51,6 @@
 				</div>
 			</div>
 		</section>
-		
-
-		<section class="ftco-section ftco-counter img" id="section-flores" style="background-image: url(images/colosio2.jpg);" data-stellar-background-ratio="0.5">
-    	<div class="container">
-    		<div class="row justify-content-center mb-5 pb-2 d-flex">
-    			<div class="col-md-6 align-items-stretch d-flex">
-    				<div class="img img-video d-flex align-items-center">
-    					<div class="video justify-content-center">
-                <img src="images/reynaflores.jpg" width="500px">
-							</div>
-    				</div>
-    			</div>
-          <div class="col-md-5 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Nuestra Reyna de las Fl🌸res 2022</h2>
-            <h3>Carolina Bojórquez</h3>
-          </div>
-        </div>	
-    	</div>
-    </section>
 
     <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/colosio4.jpg);" data-stellar-background-ratio="0.5">
     	<div class="container">
