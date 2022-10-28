@@ -353,7 +353,7 @@
 						</a>
 						<div class="text bg-white p-4">
 							<h3 class="heading"><a href="#">Participación en las Lunas de Octubre</a></h3>
-							<p>Seguimos poniendo en alto el talento de nuestros alumnos🙌 con su gran compromiso por el arte, esta noche fuimos participes en el Festival  IX  de Danza Folklorica💃 del TECNM campus Nogales, agradecemos👏 enormemente a nuestros alumnos del taller de danza por su dedicación y preparación en este festival por representar dignamente nuestra institucion.💯</p>
+							<p>Seguimos poniendo en alto el talento de nuestros alumnos🙌 con su gran compromiso por el arte, esta noche fuimos participes en el Festival  IX  de Danza Folklorica💃 del TECNM campus Nogales</p>
 							<div class="d-flex align-items-center mt-4">
 								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/563597859102530" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
@@ -373,7 +373,7 @@
 							</a>
 							<div class="text bg-white p-4">
 								<h3 class="heading"><a href="#">Marcha conmemorativa del "Día Mundial de la Lucha Contra el Cáncer de Mama"</a></h3>
-								<p>Tuvimos participación en la marcha conmemorativa del Día Mundial de la Lucha Contra el Cáncer de Mama, manifestamos admiración, respeto y solidaridad por todas las mujeres que se encuentran en este proceso y todas aquellas que han vencido con la frente en alto esta batalla.</p>
+								<p>Tuvimos participación en la marcha conmemorativa del Día Mundial de la Lucha Contra el Cáncer de Mama, manifestamos admiración, respeto y solidaridad por todas las mujeres que se encuentran en este proceso.</p>
 								<div class="d-flex align-items-center mt-4">
 									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/562365385892444" target="_blank" class="btn btn-primary">Saber Mas <span
 												class="ion-ios-arrow-round-forward"></span></a></p>
