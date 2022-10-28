@@ -216,7 +216,7 @@
         <div class="col-md-7 order-2 order-md-1">
           <h3>Proxima Fecha de Inscripciones</h3>
           <p class="fst-italic">
-            10 de Noviembre del 2022
+            Por definir...
           </p>
           <p>
             Asegurate de asistir con la documentación completa y un padre de familia o tutor que sea mayor de edad para
