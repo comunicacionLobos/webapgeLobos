@@ -343,7 +343,7 @@
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/563597859102530" class="block-20 d-flex align-items-end"
+						<a href="https://www.facebook.com/miprepanogales/posts/563601282435521" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion1.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">20</span>
@@ -355,7 +355,7 @@
 							<h3 class="heading"><a href="#">Participación en las Lunas de Octubre</a></h3>
 							<p>Seguimos poniendo en alto el talento de nuestros alumnos🙌 con su gran compromiso por el arte, esta noche fuimos participes en el Festival  IX  de Danza Folklorica💃 del TECNM campus Nogales</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/563597859102530" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/563601282435521" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
@@ -363,7 +363,7 @@
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/562365385892444" class="block-20 d-flex align-items-end"
+							<a href="https://www.facebook.com/miprepanogales/posts/562368212558828" class="block-20 d-flex align-items-end"
 								style="background-image: url('images/publicacion3.jpg');">
 								<div class="meta-date text-center p-2">
 									<span class="day">19</span>
@@ -375,7 +375,7 @@
 								<h3 class="heading"><a href="#">Marcha conmemorativa del "Día Mundial de la Lucha Contra el Cáncer de Mama"</a></h3>
 								<p>Tuvimos participación en la marcha conmemorativa del Día Mundial de la Lucha Contra el Cáncer de Mama, manifestamos admiración, respeto y solidaridad por todas las mujeres que se encuentran en este proceso.</p>
 								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/562365385892444" target="_blank" class="btn btn-primary">Saber Mas <span
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/562368212558828" target="_blank" class="btn btn-primary">Saber Mas <span
 												class="ion-ios-arrow-round-forward"></span></a></p>
 								</div>
 							</div>
@@ -383,7 +383,7 @@
 				</div>
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/559091302886519" class="block-20 d-flex align-items-end"
+						<a href="https://www.facebook.com/miprepanogales/posts/559094399552876" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion2.jpg');">
 							<div class="meta-date text-center p-2">
 								<span class="day">15</span>
@@ -395,7 +395,7 @@
 							<h3 class="heading"><a href="#">Unidos por el Arte 2022</a></h3>
 							<p>Esta noche nuestros alumnos del Taller de Música🎤🎼 tuvieron una gran participación🙌 en #UnidosporelArte2022. 🔝</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/559091302886519" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/559094399552876" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
