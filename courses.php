@@ -136,7 +136,7 @@
 						</div>
 					</div>
 					<div class="col-md-3 course ftco-animate">
-						<div class="img" style="background-image: url(images/ecologia.JPG);"></div>
+						<div class="img" style="background-image: url(images/lenguasenas.JPG);"></div>
 						<div class="text pt-4">						
 							<h3><a href="#">Taller de Lengua de Señas</a></h3>
 							<p><a href="#" class="btn btn-primary">Lengua de Señas</a></p>
