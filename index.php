@@ -342,6 +342,27 @@
 			</div>
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
+						<div class="blog-entry">
+							<a href="https://www.facebook.com/miprepanogales/posts/579765140819135" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion3.jpg');">
+								<div class="meta-date text-center p-2">
+									<span class="day">07</span>
+									<span class="mos">Noviembre</span>
+									<span class="yr">2022</span>
+								</div>
+							</a>
+							<div class="text bg-white p-4">
+								<h3 class="heading"><a href="#">#DECIDETE2022-2023</a></h3>
+								<p>Fuimos partícipes en la inauguración del #DECIDETE2022-2023
+Ubicado en la Universidad Tecnológica de Nogales Sonora UTN.</p>
+								<div class="d-flex align-items-center mt-4">
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/579765140819135" target="_blank" class="btn btn-primary">Saber Mas <span
+												class="ion-ios-arrow-round-forward"></span></a></p>
+								</div>
+							</div>
+						</div>
+			</div>		
+			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/573794831416166" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion2.jpg');">
@@ -380,27 +401,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/562368212558828" class="block-20 d-flex align-items-end"
-								style="background-image: url('images/publicacion3.jpg');">
-								<div class="meta-date text-center p-2">
-									<span class="day">19</span>
-									<span class="mos">Octubre</span>
-									<span class="yr">2022</span>
-								</div>
-							</a>
-							<div class="text bg-white p-4">
-								<h3 class="heading"><a href="#">Marcha conmemorativa del "Día Mundial de la Lucha Contra el Cáncer de Mama"</a></h3>
-								<p>Tuvimos participación en la marcha conmemorativa del Día Mundial de la Lucha Contra el Cáncer de Mama, manifestamos admiración, respeto y solidaridad por todas las mujeres que se encuentran en este proceso.</p>
-								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/562368212558828" target="_blank" class="btn btn-primary">Saber Mas <span
-												class="ion-ios-arrow-round-forward"></span></a></p>
-								</div>
-							</div>
-						</div>
-				</div>			
+				</div>	
 			</div>
 		</div>
 	</section>
