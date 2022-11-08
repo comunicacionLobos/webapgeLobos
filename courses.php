@@ -156,6 +156,20 @@
 							<p><a href="#" class="btn btn-primary">Futbol Americano</a></p>
 						</div>
 					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/boxeo.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Extraescolar de Box</a></h3>
+							<p><a href="#" class="btn btn-primary">Box</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/atletismo.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Extraescolar de Atletismo</a></h3>
+							<p><a href="#" class="btn btn-primary">Atletismo</a></p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
