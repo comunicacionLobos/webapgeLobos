@@ -342,6 +342,26 @@
 			</div>
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="blog-entry">
+						<a href="https://www.facebook.com/miprepanogales/posts/580719150723734" class="block-20 d-flex align-items-end"
+							style="background-image: url('images/publicacion1.jpg');">
+							<div class="meta-date text-center p-2">
+								<span class="day">08</span>
+								<span class="mos">Noviembre</span>
+								<span class="yr">2022</span>
+							</div>
+						</a>
+						<div class="text bg-white p-4">
+							<h3 class="heading"><a href="#">Final de Torneo de Basquet</a></h3>
+							<p>Una final bastante emocionante se vivió en plantel Colosio donde culmino nuestro torneo interno de básquetbol🏀 con una significativa victoria por parte de los "Wilbers" sobre los "Wolves".</p>
+							<div class="d-flex align-items-center mt-4">
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/580719150723734" target="_blank" class="btn btn-primary">Saber Mas <span
+											class="ion-ios-arrow-round-forward"></span></a></p>
+							</div>
+						</div>
+					</div>
+			</div>	
+			<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
 							<a href="https://www.facebook.com/miprepanogales/posts/579765140819135" class="block-20 d-flex align-items-end"
 								style="background-image: url('images/publicacion3.jpg');">
@@ -382,26 +402,6 @@ Ubicado en la Universidad Tecnológica de Nogales Sonora UTN.</p>
 						</div>
 					</div>
 			</div>	
-			<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/563601282435521" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion1.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">20</span>
-								<span class="mos">Octubre</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Participación en las Lunas de Octubre</a></h3>
-							<p>Seguimos poniendo en alto el talento de nuestros alumnos🙌 con su gran compromiso por el arte, esta noche fuimos participes en el Festival  IX  de Danza Folklorica💃 del TECNM campus Nogales</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/563601282435521" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-				</div>	
 			</div>
 		</div>
 	</section>
