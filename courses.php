@@ -100,6 +100,62 @@
 							<p><a href="#" class="btn btn-primary">Banda de Guerra</a></p>
 						</div>
 					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/pintura.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller de Pintura</a></h3>
+							<p><a href="#" class="btn btn-primary">Pintura</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/dibujo.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller de Dibujo</a></h3>
+							<p><a href="#" class="btn btn-primary">Dibujo</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/ajedrez.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller de Ajedrez</a></h3>
+							<p><a href="#" class="btn btn-primary">Ajedrez</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/hablarenpublico.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller sobre el Arte de Hablar en Publico</a></h3>
+							<p><a href="#" class="btn btn-primary">Arte de Hablar en Publico</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/ecologia.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller de Ecologia</a></h3>
+							<p><a href="#" class="btn btn-primary">Ecologia</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/ecologia.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller de Lengua de Señas</a></h3>
+							<p><a href="#" class="btn btn-primary">Lengua de Señas</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/fotografia.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Taller de Fotografía</a></h3>
+							<p><a href="#" class="btn btn-primary">Fotografía</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 course ftco-animate">
+						<div class="img" style="background-image: url(images/americano.JPG);"></div>
+						<div class="text pt-4">						
+							<h3><a href="#">Extraescolar de Futbol Americano</a></h3>
+							<p><a href="#" class="btn btn-primary">Futbol Americano</a></p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
