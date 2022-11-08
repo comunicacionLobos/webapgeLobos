@@ -343,6 +343,26 @@
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
+						<a href="https://www.facebook.com/miprepanogales/posts/573794831416166" class="block-20 d-flex align-items-end"
+							style="background-image: url('images/publicacion2.jpg');">
+							<div class="meta-date text-center p-2">
+								<span class="day">31</span>
+								<span class="mos">Octubre</span>
+								<span class="yr">2022</span>
+							</div>
+						</a>
+						<div class="text bg-white p-4">
+							<h3 class="heading"><a href="#">Concurso de Catrinas 2022</a></h3>
+							<p>Siguiendo con nuestro entusiasmo por la cultura mexicana🇲🇽, se llevó a cabo nuestro segundo concurso de catrinas del turno vespertino en Plantel Colosio, en el cual cabe destacar la participación de nuestro Plantel La Mesa👏</p>
+							<div class="d-flex align-items-center mt-4">
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/573794831416166" target="_blank" class="btn btn-primary">Saber Mas <span
+											class="ion-ios-arrow-round-forward"></span></a></p>
+							</div>
+						</div>
+					</div>
+			</div>	
+			<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/563601282435521" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion1.jpg');">
 							<div class="meta-date text-center p-2">
@@ -380,27 +400,7 @@
 								</div>
 							</div>
 						</div>
-				</div>
-			<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/559094399552876" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion2.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">15</span>
-								<span class="mos">Octubre</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Unidos por el Arte 2022</a></h3>
-							<p>Esta noche nuestros alumnos del Taller de Música🎤🎼 tuvieron una gran participación🙌 en #UnidosporelArte2022. 🔝</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/559094399552876" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-				</div>	
+				</div>			
 			</div>
 		</div>
 	</section>
