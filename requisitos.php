@@ -175,7 +175,7 @@
               <div class="block-18">
                 <div class="icon"><span class="flaticon-doctor"></span></div>
                 <div class="text">
-                  <strong class="number" data-number="1600">0</strong>
+                  <strong class="number" data-number="2000">0</strong>
                   <span>Costo (pesos)</span>
                 </div>
               </div>
@@ -204,7 +204,7 @@
             <li>Sin costo de inscripción.</li>
             <li>Preparatoria en 2 años.</li>
             <li>Lunes a viernes.</li>
-            <li>Colegiatura Cuatrimestral de $1,600.</li>
+            <li>Colegiatura Cuatrimestral de $2,000.</li>
           </ul>
         </div>
       </div><!-- Features Item -->
