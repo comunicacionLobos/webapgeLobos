@@ -343,19 +343,19 @@
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/580719150723734" class="block-20 d-flex align-items-end"
+						<a href="https://www.facebook.com/miprepanogales/posts/583580347104281" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion1.jpg');">
 							<div class="meta-date text-center p-2">
-								<span class="day">08</span>
+								<span class="day">11</span>
 								<span class="mos">Noviembre</span>
 								<span class="yr">2022</span>
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Final de Torneo de Basquet</a></h3>
-							<p>Una final bastante emocionante se vivió en plantel Colosio donde culmino nuestro torneo interno de básquetbol🏀 con una significativa victoria por parte de los "Wilbers" sobre los "Wolves".</p>
+							<h3 class="heading"><a href="#">Final de DECIDETE2022</a></h3>
+							<p>Con un gran éxito termina la oferta👏 educativa del nivel medio superior para los alumnos de tercer grado de secundaria en el Decídete 2022 y con ello fueron invitados nuestros alumnos del taller de danza para el cierre de esta primera etapa</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/580719150723734" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/583580347104281" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
@@ -363,20 +363,19 @@
 			</div>	
 			<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/579765140819135" class="block-20 d-flex align-items-end"
+							<a href="https://www.facebook.com/miprepanogales/posts/582549433874039" class="block-20 d-flex align-items-end"
 								style="background-image: url('images/publicacion3.jpg');">
 								<div class="meta-date text-center p-2">
-									<span class="day">07</span>
+									<span class="day">10</span>
 									<span class="mos">Noviembre</span>
 									<span class="yr">2022</span>
 								</div>
 							</a>
 							<div class="text bg-white p-4">
-								<h3 class="heading"><a href="#">#DECIDETE2022-2023</a></h3>
-								<p>Fuimos partícipes en la inauguración del #DECIDETE2022-2023
-Ubicado en la Universidad Tecnológica de Nogales Sonora UTN.</p>
+								<h3 class="heading"><a href="#">Feria de Proyectos Finales La Mesa</a></h3>
+								<p>🎉Cerramos cuatrimestre✅con una gran feria de proyectos finales en Plantel La Mesa. Muchas felicidades👏 a los alumnos y personal que participaron en este magnífico evento, en el cual culminan su proceso de aprendizaje aplicado en el cuatrimestre.🔝</p>
 								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/579765140819135" target="_blank" class="btn btn-primary">Saber Mas <span
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/582549433874039" target="_blank" class="btn btn-primary">Saber Mas <span
 												class="ion-ios-arrow-round-forward"></span></a></p>
 								</div>
 							</div>
@@ -384,19 +383,19 @@ Ubicado en la Universidad Tecnológica de Nogales Sonora UTN.</p>
 			</div>		
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/573794831416166" class="block-20 d-flex align-items-end"
+						<a href="https://www.facebook.com/miprepanogales/posts/581678503961132" class="block-20 d-flex align-items-end"
 							style="background-image: url('images/publicacion2.jpg');">
 							<div class="meta-date text-center p-2">
-								<span class="day">31</span>
-								<span class="mos">Octubre</span>
+								<span class="day">09</span>
+								<span class="mos">Noviembre</span>
 								<span class="yr">2022</span>
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Concurso de Catrinas 2022</a></h3>
-							<p>Siguiendo con nuestro entusiasmo por la cultura mexicana🇲🇽, se llevó a cabo nuestro segundo concurso de catrinas del turno vespertino en Plantel Colosio, en el cual cabe destacar la participación de nuestro Plantel La Mesa👏</p>
+							<h3 class="heading"><a href="#">Feria de Proyectos Finales Colosio</a></h3>
+							<p>🎉Cerramos cuatrimestre✅con una gran feria de proyectos finales del turno vespertino en Plantel Colosio.👏</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/573794831416166" target="_blank" class="btn btn-primary">Saber Mas <span
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/581678503961132" target="_blank" class="btn btn-primary">Saber Mas <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 							</div>
 						</div>
