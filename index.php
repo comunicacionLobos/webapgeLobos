@@ -340,7 +340,47 @@
 					<p>Mantente al tanto de lo mas destacado en nuestra Preparatoria Municipal.</p>
 				</div>
 			</div>
+			<div class="col-md-6 col-lg-4 ftco-animate">
+						<div class="blog-entry">
+							<a href="https://www.facebook.com/miprepanogales/posts/591579136304402" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion3.jpg');">
+								<div class="meta-date text-center p-2">
+									<span class="day">20</span>
+									<span class="mos">Noviembre</span>
+									<span class="yr">2022</span>
+								</div>
+							</a>
+							<div class="text bg-white p-4">
+								<h3 class="heading"><a href="#">Desfile Conmemorativo de la Revolución Mexicana</a></h3>
+								<p>Orgullosos🙌👏de participar en el desfile conmemorativo del 112 Aniversario del Inicio de la Revolución Mexicana.</p>
+								<div class="d-flex align-items-center mt-4">
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/591579136304402" target="_blank" class="btn btn-primary">Saber Mas <span
+												class="ion-ios-arrow-round-forward"></span></a></p>
+								</div>
+							</div>
+						</div>
+			</div>	
 			<div class="row">
+			<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="blog-entry">
+						<a href="https://www.facebook.com/miprepanogales/posts/589979389797710" class="block-20 d-flex align-items-end"
+							style="background-image: url('images/publicacion2.jpg');">
+							<div class="meta-date text-center p-2">
+								<span class="day">18</span>
+								<span class="mos">Noviembre</span>
+								<span class="yr">2022</span>
+							</div>
+						</a>
+						<div class="text bg-white p-4">
+							<h3 class="heading"><a href="#">Graduación</a></h3>
+							<p>Estamos muy orgullosos🙌 de ver a nuestros alumnos y alumnas de los grupos C01-12 y C02-12 culminar✨ con esta etapa tan importante en sus vidas, gracias por dejarnos ser parte de sus vidas, enhorabuena y que sigan los éxitos.👏👏</p>
+							<div class="d-flex align-items-center mt-4">
+								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/589979389797710" target="_blank" class="btn btn-primary">Saber Mas <span
+											class="ion-ios-arrow-round-forward"></span></a></p>
+							</div>
+						</div>
+					</div>
+			</div>	
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/583580347104281" class="block-20 d-flex align-items-end"
@@ -360,47 +400,7 @@
 							</div>
 						</div>
 					</div>
-			</div>	
-			<div class="col-md-6 col-lg-4 ftco-animate">
-						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/582549433874039" class="block-20 d-flex align-items-end"
-								style="background-image: url('images/publicacion3.jpg');">
-								<div class="meta-date text-center p-2">
-									<span class="day">10</span>
-									<span class="mos">Noviembre</span>
-									<span class="yr">2022</span>
-								</div>
-							</a>
-							<div class="text bg-white p-4">
-								<h3 class="heading"><a href="#">Feria de Proyectos Finales La Mesa</a></h3>
-								<p>🎉Cerramos cuatrimestre✅con una gran feria de proyectos finales en Plantel La Mesa. Muchas felicidades👏 a los alumnos y personal que participaron en este magnífico evento, en el cual culminan su proceso de aprendizaje aplicado en el cuatrimestre.🔝</p>
-								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/582549433874039" target="_blank" class="btn btn-primary">Saber Mas <span
-												class="ion-ios-arrow-round-forward"></span></a></p>
-								</div>
-							</div>
-						</div>
 			</div>		
-			<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/581678503961132" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion2.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">09</span>
-								<span class="mos">Noviembre</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Feria de Proyectos Finales Colosio</a></h3>
-							<p>🎉Cerramos cuatrimestre✅con una gran feria de proyectos finales del turno vespertino en Plantel Colosio.👏</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/581678503961132" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-			</div>	
 			</div>
 		</div>
 	</section>
