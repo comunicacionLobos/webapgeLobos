@@ -339,7 +339,8 @@
 					<h2 class="mb-4"><span>Noticias</span> Recientes</h2>
 					<p>Mantente al tanto de lo mas destacado en nuestra Preparatoria Municipal.</p>
 				</div>
-			</div>
+			</div>			
+			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
 							<a href="https://www.facebook.com/miprepanogales/posts/591579136304402" class="block-20 d-flex align-items-end"
@@ -360,7 +361,6 @@
 							</div>
 						</div>
 			</div>	
-			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
 						<a href="https://www.facebook.com/miprepanogales/posts/589979389797710" class="block-20 d-flex align-items-end"
