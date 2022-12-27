@@ -343,64 +343,64 @@
 			<div class="row">
 			<div class="col-md-6 col-lg-4 ftco-animate">
 						<div class="blog-entry">
-							<a href="https://www.facebook.com/miprepanogales/posts/591579136304402" class="block-20 d-flex align-items-end"
-								style="background-image: url('images/publicacion3.jpg');">
+							<a href="https://www.facebook.com/miprepanogales/posts/618112700317712" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion1.jpg');">
 								<div class="meta-date text-center p-2">
-									<span class="day">20</span>
-									<span class="mos">Noviembre</span>
+									<span class="day">19</span>
+									<span class="mos">Diciembre</span>
 									<span class="yr">2022</span>
 								</div>
 							</a>
 							<div class="text bg-white p-4">
-								<h3 class="heading"><a href="#">Desfile Conmemorativo de la Revolución Mexicana</a></h3>
-								<p>Orgullosos🙌👏de participar en el desfile conmemorativo del 112 Aniversario del Inicio de la Revolución Mexicana.</p>
+								<h3 class="heading"><a href="#">Festival Navideño Plantel Colosio</a></h3>
+								<p>Concluimos nuestro año escolar con un emotivo festival navideño🎄 para nuestros estudiantes del plantel Colosio</p>
 								<div class="d-flex align-items-center mt-4">
-									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/591579136304402" target="_blank" class="btn btn-primary">Saber Mas <span
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/618112700317712" target="_blank" class="btn btn-primary">Saber Mas <span
+												class="ion-ios-arrow-round-forward"></span></a></p>
+								</div>
+							</div>
+						</div>
+			</div>
+			<div class="col-md-6 col-lg-4 ftco-animate">
+						<div class="blog-entry">
+							<a href="https://www.facebook.com/miprepanogales/posts/615464633915852" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion2.jpg');">
+								<div class="meta-date text-center p-2">
+									<span class="day">16</span>
+									<span class="mos">Diciembre</span>
+									<span class="yr">2022</span>
+								</div>
+							</a>
+							<div class="text bg-white p-4">
+								<h3 class="heading"><a href="#">Encendida de Arbol Navideño Plantel La Mesa</a></h3>
+								<p>Con gran éxito se llevó a cabo el encendido del árbol🎄 de navidad en nuestro Plantel La Mesa.</p>
+								<div class="d-flex align-items-center mt-4">
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/615464633915852" target="_blank" class="btn btn-primary">Saber Mas <span
 												class="ion-ios-arrow-round-forward"></span></a></p>
 								</div>
 							</div>
 						</div>
 			</div>	
 			<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/589979389797710" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion2.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">18</span>
-								<span class="mos">Noviembre</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Graduación</a></h3>
-							<p>Estamos muy orgullosos🙌 de ver a nuestros alumnos y alumnas de los grupos C01-12 y C02-12 culminar✨ con esta etapa tan importante en sus vidas, gracias por dejarnos ser parte de sus vidas, enhorabuena y que sigan los éxitos.👏👏</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/589979389797710" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
+						<div class="blog-entry">
+							<a href="https://www.facebook.com/miprepanogales/posts/615454370583545" class="block-20 d-flex align-items-end"
+								style="background-image: url('images/publicacion3.jpg');">
+								<div class="meta-date text-center p-2">
+									<span class="day">16</span>
+									<span class="mos">Diciembre</span>
+									<span class="yr">2022</span>
+								</div>
+							</a>
+							<div class="text bg-white p-4">
+								<h3 class="heading"><a href="#">Desfile Navideño Plantel La Mesa</a></h3>
+								<p>Con gran éxito se llevó a cabo nuestro desfile en nuestro Plantel La Mesa.</p>
+								<div class="d-flex align-items-center mt-4">
+									<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/615454370583545" target="_blank" class="btn btn-primary">Saber Mas <span
+												class="ion-ios-arrow-round-forward"></span></a></p>
+								</div>
 							</div>
 						</div>
-					</div>
 			</div>	
-			<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="blog-entry">
-						<a href="https://www.facebook.com/miprepanogales/posts/583580347104281" class="block-20 d-flex align-items-end"
-							style="background-image: url('images/publicacion1.jpg');">
-							<div class="meta-date text-center p-2">
-								<span class="day">11</span>
-								<span class="mos">Noviembre</span>
-								<span class="yr">2022</span>
-							</div>
-						</a>
-						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Final de DECIDETE2022</a></h3>
-							<p>Con un gran éxito termina la oferta👏 educativa del nivel medio superior para los alumnos de tercer grado de secundaria en el Decídete 2022 y con ello fueron invitados nuestros alumnos del taller de danza para el cierre de esta primera etapa</p>
-							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="https://www.facebook.com/miprepanogales/posts/583580347104281" target="_blank" class="btn btn-primary">Saber Mas <span
-											class="ion-ios-arrow-round-forward"></span></a></p>
-							</div>
-						</div>
-					</div>
-			</div>		
 			</div>
 		</div>
 	</section>
